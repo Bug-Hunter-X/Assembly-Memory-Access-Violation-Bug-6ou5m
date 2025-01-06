@@ -1,0 +1,1 @@
+This repository contains an example of a common assembly language bug related to memory access violations. The bug occurs when the program attempts to access memory outside of the allocated bounds, leading to crashes or unexpected behavior. The solution demonstrates how to prevent this by adding bounds checking and validating memory addresses.
